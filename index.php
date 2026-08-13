@@ -33,16 +33,7 @@
                         <a class="nav-link" href="contacto.php">Contacto</a>
                     </li>
                 </ul>
-                <form class="d-flex">
-                    <input class="form-control me-2" type="text" placeholder="Search">
-                    <button class="btn btn-primary" type="button">Search</button>
-                </form>
             </div>
-        </div>
-        </nav>
-        <div class="container-fluid mt-3">
-        <h3>Navbar Forms</h3>
-        <p>You can also include forms inside the navigation bar.</p>
         </div>
 
         <!--Container-->    
