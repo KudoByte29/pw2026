@@ -11,8 +11,8 @@
         <!--Navbar-->
 
         <!--Container-->    
-        Pagina Principal<br>
         <div class="container-fluid bg-warning">
+            Pagina Principal<br>
             <a href="index.php">Ir a la Página Principal</a><br>
             <a href="quienessomos.php">¿Quiénes somos?</a><br>
             <a href="productos.php">Productos</a><br>
@@ -23,7 +23,7 @@
 
 
         <!--Footer-->
-        
+
         <!--Modal-->
     </body>
 </html>
