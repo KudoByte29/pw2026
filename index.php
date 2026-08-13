@@ -36,9 +36,11 @@
                     </li>
                 </ul>
             </div>
-                <li class="nav-item">
-                    <a class="nav-link text-white" href="tucuenta.php">Mi Cuenta</a>
-                </li>
+                <ul class="navbar-nav me-auto">
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="tucuenta.php">Mi Cuenta</a>
+                    </li>
+                </ul>
             <button type="button" class="btn btn-outline-light" data-bs-toggle="modal" data-bs-target="#myModal">Acceder</button>
         </div>
         </nav>
@@ -83,7 +85,7 @@
                         <input class="form-check-input" type="checkbox" name="remember"> Recordarme
                         </label>
                     </div>
-                    <button type="submit" class="btn btn-primary">Submit</button>
+                    <button type="submit" class="btn btn-primary">Aceptar</button>
                     </form>
                     </div>
                     <!-- Modal footer -->
