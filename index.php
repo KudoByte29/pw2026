@@ -36,7 +36,7 @@
                     </li>
                 </ul>
             </div>
-            <button type="button" class="btn btn-outline-dark">Acceder</button>
+            <button type="button" class="btn btn-outline-light">Acceder</button>
         </div>
         </nav>
     
