@@ -18,9 +18,6 @@
             <div class="collapse navbar-collapse" id="mynavbar">
                 <ul class="navbar-nav me-auto">
                     <li class="nav-item">
-                        <a class="nav-link" href="index.php">Ir a la Página Principal</a>
-                    </li>
-                    <li class="nav-item">
                         <a class="nav-link" href="quienessomos.php">¿Quiénes somos?</a>
                     </li>
                     <li class="nav-item">
