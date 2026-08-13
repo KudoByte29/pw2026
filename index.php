@@ -48,13 +48,37 @@
 
         <!--Container-->    
         <div class="container-fluid bg-warning">
-            Pagina Principal<br>
-            <a href="index.php">Ir a la Página Principal</a><br>
-            <a href="quienessomos.php">¿Quiénes somos?</a><br>
-            <a href="productos.php">Productos</a><br>
-            <a href="novedades.php">Novedades</a><br>
-            <a href="ofertas.php">Ofertas</a><br>
-            <a href="contacto.php">Contacto</a><br>
+            <!-- Carousel -->
+            <div id="demo" class="carousel slide" data-bs-ride="carousel">
+
+            <!-- Indicators/dots -->
+            <div class="carousel-indicators">
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="0" class="active"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="1"></button>
+                <button type="button" data-bs-target="#demo" data-bs-slide-to="2"></button>
+            </div>
+
+            <!-- The slideshow/carousel -->
+            <div class="carousel-inner">
+                <div class="carousel-item active">
+                <img src="Aud1.png" alt="Audífonos Negros" class="d-block w-100">
+                </div>
+                <div class="carousel-item">
+                <img src="Aud2.png" alt="Audífonos Celestes" class="d-block w-100">
+                </div>
+                <div class="carousel-item">
+                <img src="Aud3.png" alt="Audífonos Blancos" class="d-block w-100">
+                </div>
+            </div>
+
+            <!-- Left and right controls/icons -->
+            <button class="carousel-control-prev" type="button" data-bs-target="#demo" data-bs-slide="prev">
+                <span class="carousel-control-prev-icon"></span>
+            </button>
+            <button class="carousel-control-next" type="button" data-bs-target="#demo" data-bs-slide="next">
+                <span class="carousel-control-next-icon"></span>
+            </button>
+            </div>
         </div>
 
 
