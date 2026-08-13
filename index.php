@@ -29,7 +29,7 @@
                         <a class="nav-link text-white" href="novedades.php">Novedades</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ofertas.php">Ofertas</a>
+                        <a class="nav-link text-white" href="ofertas.php">Ofertas</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="contacto.php">Contacto</a>
@@ -56,12 +56,12 @@
         <!--Footer-->
 
         <!--Modal-->
-        <div class="modal" id="myModal">
+        <div class="modal fade" id="myModal">
             <div class="modal-dialog">
                 <div class="modal-content">
                     <!-- Modal Header -->
                     <div class="modal-header">
-                        <h4 class="modal-title">Modal Heading</h4>
+                        <h4 class="modal-title">Accede a tu cuenta</h4>
                         <button type="button" class="btn-close" data-bs-dismiss="modal"></button>
                     </div>
                     <!-- Modal body -->
