@@ -36,9 +36,11 @@
                     </li>
                 </ul>
             </div>
-                <li class="nav-item">
-                    <a class="nav-link text-white" href="tucuenta.php">Mi Cuenta</a>
-                </li>
+                <ul>
+                    <li class="nav-item">
+                        <a class="nav-link text-white" href="tucuenta.php">Mi Cuenta</a>
+                    </li>
+                </ul>
             <button type="button" class="btn btn-outline-light" data-bs-toggle="modal" data-bs-target="#myModal">Acceder</button>
         </div>
         </nav>
