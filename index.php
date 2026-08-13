@@ -3,6 +3,9 @@
         <title>Página Principal</title>
     </head>
     <body>
+        <!--Navbar-->
+
+        <!--Container-->
         Pagina Principal<br>
         <a href="index.php">Ir a la Página Principal</a><br>
         <a href="quienessomos.php">¿Quiénes somos?</a><br>
