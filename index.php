@@ -36,10 +36,10 @@
                     </li>
                 </ul>
             </div>
+            <button type="button" class="btn btn-outline-dark">Acceder</button>
         </div>
         </nav>
-        <div class="container mt-3">
-        <button type="button" class="btn btn-outline-dark">Acceder</button>
+    
 
         <!--Container-->    
         <div class="container-fluid bg-warning">
