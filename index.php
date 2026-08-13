@@ -3,7 +3,7 @@
         <title>Página Principal</title>
     </head>
     <body>
-        Pagina Principal
+        Pagina Principal<br>
         <a href="index.php">Ir a la Página Principal</a><br>
         <a href="quienessomos.php">¿Quiénes somos?</a><br>
         <a href="productos.php">Productos</a><br>
