@@ -47,7 +47,7 @@
     
 
         <!--Container-->    
-        <div class="container-fluid bg-dark">
+        <div class="container-fluid bg-white">
             <!-- Carousel -->
             <div id="demo" class="carousel slide" data-bs-ride="carousel">
 
