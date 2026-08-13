@@ -61,13 +61,13 @@
             <!-- The slideshow/carousel -->
             <div class="carousel-inner">
                 <div class="carousel-item active">
-                <img src="img/Aud1.png" alt="Audífonos Negros" class="d-block w-50">
+                <img src="img/Aud1.png" alt="Audífonos Negros" class="d-block" style="height: 400px; width: 100%; object-fit: contain;">
                 </div>
                 <div class="carousel-item">
-                <img src="img/Aud2.png" alt="Audífonos Celestes" class="d-block w-50">
+                <img src="img/Aud2.png" alt="Audífonos Celestes" class="d-block" style="height: 400px; width: 100%; object-fit: contain;">
                 </div>
                 <div class="carousel-item">
-                <img src="img/Aud3.png" alt="Audífonos Blancos" class="d-block w-50">
+                <img src="img/Aud3.png" alt="Audífonos Blancos" class="d-block" style="height: 400px; width: 100%; object-fit: contain;">
                 </div>
             </div>
 
