@@ -12,7 +12,7 @@
         <nav class="navbar navbar-expand-sm navbar-dark bg-dark">
         <div class="container-fluid">
             <a class="navbar-brand" href="index.php">
-                <img src="img/logo.png" alt="Logo Tienda de Audifonos" class="rounded-circle" tyle="width: 45px; height: 45px; object-fit: cover;">
+                <img src="img/logo.png" alt="Logo Tienda de Audifonos" class="rounded-circle" height="50">
             </a>
             <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#mynavbar">
             <span class="navbar-toggler-icon"></span>
