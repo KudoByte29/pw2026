@@ -38,6 +38,9 @@
             </div>
         </div>
         </nav>
+        <div class="container mt-3">
+        <h2>Button Outline</h2>
+        <button type="button" class="btn btn-outline-dark">Acceder</button>
 
         <!--Container-->    
         <div class="container-fluid bg-warning">
