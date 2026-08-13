@@ -23,13 +23,13 @@
                         <a class="nav-link text-white" href="quienessomos.php">¿Quiénes somos?</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="productos.php">Productos</a>
+                        <a class="nav-link text-white" href="productos.php">Productos</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="novedades.php">Novedades</a>
                     </li>
                     <li class="nav-item">
-                        <a class="nav-link" href="ofertas.php">Ofertas</a>
+                        <a class="nav-link text-white" href="ofertas.php">Ofertas</a>
                     </li>
                     <li class="nav-item">
                         <a class="nav-link text-white" href="contacto.php">Contacto</a>
