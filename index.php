@@ -83,7 +83,32 @@
 
 
         <!--Footer-->
-
+        <footer class="bg-dark text-white mt-5 pt-4 pb-3">
+                    <div class="container-fluid">
+                        <div class="row">
+                            <div class="col-md-4 mb-3">
+                                <h5>Tienda de Audífonos</h5>
+                                <p class="mb-1">Tu tienda de confianza en audio y sonido.</p>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <h5>Enlaces</h5>
+                                <ul class="list-unstyled">
+                                    <li><a href="quienessomos.php" class="text-white text-decoration-none">¿Quiénes somos?</a></li>
+                                    <li><a href="productos.php" class="text-white text-decoration-none">Productos</a></li>
+                                    <li><a href="contacto.php" class="text-white text-decoration-none">Contacto</a></li>
+                                </ul>
+                            </div>
+                            <div class="col-md-4 mb-3">
+                                <h5>Síguenos</h5>
+                                <a href="#" class="text-white me-3">Facebook</a>
+                                <a href="#" class="text-white me-3">Instagram</a>
+                                <a href="#" class="text-white">Twitter</a>
+                            </div>
+                        </div>
+                        <hr class="border-light">
+                        <p class="text-center mb-0">&copy; 2026 Tienda de Audífonos. Todos los derechos reservados.</p>
+                    </div>
+                </footer>
         <!--Modal-->
         <div class="modal fade" id="myModal">
             <div class="modal-dialog">
